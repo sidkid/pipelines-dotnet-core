@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipelines-dotnet-core", "pipelines-dotnet-core\pipelines-dotnet-core.csproj", "{84E5C7E3-1353-43BC-B32D-49C9A4223679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipelines-dotnet-core-test", "pipelines-dotnet-core-test\pipelines-dotnet-core-test.csproj", "{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{84E5C7E3-1353-43BC-B32D-49C9A4223679}.Release|x64.Build.0 = Release|Any CPU
 		{84E5C7E3-1353-43BC-B32D-49C9A4223679}.Release|x86.ActiveCfg = Release|Any CPU
 		{84E5C7E3-1353-43BC-B32D-49C9A4223679}.Release|x86.Build.0 = Release|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Debug|x64.Build.0 = Debug|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Debug|x86.Build.0 = Debug|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Release|x64.ActiveCfg = Release|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Release|x64.Build.0 = Release|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Release|x86.ActiveCfg = Release|Any CPU
+		{1E8B9F6A-220D-4E5D-A050-DA1754C00F3C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
