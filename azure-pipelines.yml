@@ -28,6 +28,6 @@ steps:
   displayName: Build
   inputs:
     command: build
-    projects: '**/*.csproj'
-    arguments: '--configuration Debug'
+    #projects: '**/*.csproj'
+    #arguments: '--configuration Debug'
 
