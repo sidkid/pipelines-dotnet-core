@@ -36,6 +36,6 @@ steps:
   inputs:
     command: test
     projects: 'pipelines-dotnet-core-test/pipelines-dotnet-core-test.csproj'
-    arguments: '--collet "Code coverage"'
+    arguments: '--collect "Code coverage"'
     #arguments: '--configuration Debug'
 
